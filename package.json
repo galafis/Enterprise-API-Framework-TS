@@ -1,0 +1,20 @@
+{
+  "name": "enterprise-api-framework-ts",
+  "version": "1.0.0",
+  "description": "Professional EnterpriseAPI system built with TypeScript",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "ts-node main.ts",
+    "test": "jest"
+  },
+  "keywords": ["typescript", "enterpriseapi", "enterprise", "professional"],
+  "author": "Gabriel Demetrios Lafis",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
