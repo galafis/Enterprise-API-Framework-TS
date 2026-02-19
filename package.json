@@ -5,11 +5,16 @@
   "main": "dist/main.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/main.js",
+    "start": "node main.ts",
     "dev": "ts-node main.ts",
     "test": "jest"
   },
-  "keywords": ["typescript", "enterpriseapi", "enterprise", "professional"],
+  "keywords": [
+    "typescript",
+    "enterpriseapi",
+    "enterprise",
+    "professional"
+  ],
   "author": "Gabriel Demetrios Lafis",
   "license": "MIT",
   "devDependencies": {
