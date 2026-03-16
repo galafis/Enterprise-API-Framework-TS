@@ -1,5 +1,15 @@
 # Enterprise API Framework TS
 
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![License-MIT](https://img.shields.io/badge/License--MIT-yellow?style=for-the-badge)
+
+</div>
+
+
 Production-ready TypeScript REST API framework with middleware pipeline, dynamic routing, request validation, rate limiting, and plugin architecture.
 
 [English](#english) | [Portugues](#portugues)
